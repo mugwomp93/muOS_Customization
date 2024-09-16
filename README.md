@@ -1,6 +1,11 @@
 # muOS_Customization
 
-1. **Perfect Overlays**<br>![DMG -  Custom palette](https://github.com/mugwomp93/muOS_Customization/assets/143192398/9669d555-eab0-4424-bd77-d9ae5baffb81)<br><br>![muOS_20240524_1549_0](https://github.com/mugwomp93/muOS_Customization/assets/143192398/aba1499d-df08-48fc-b13a-f0bcd4257ff1)<br><br>![muOS_20240529_1119_1](https://github.com/mugwomp93/muOS_Customization/assets/143192398/57ded6b7-8940-4862-a142-5ea0a94840e4)<br><br>![muOS_20240530_0740_0](https://github.com/mugwomp93/muOS_Customization/assets/143192398/cd0031f0-ac06-4dec-b488-3305973d4137)<br><br>
+**Note: The current Perfect_Overlays_for_muOS file is outdated.**<br>It will be updated once minor troubleshooting of the GBC overlay for some minor alignment issues has been completed. For DMG/GBP and GBA, I recommend downloading the individual zips for these systems in the meantime (I'll post a separate GBC only zip once it's ready so you won't have to download the whole bundle again). I've left the complete bundle for now as the issues with the GBC overlay are minor compared with the DMG/GBP, but there will also be new border and no grid/no shadow options in the new version.
+
+1. **Perfect DMG/GBP Overlays** - updated 2024-09-14<br>Updated versions have a 533 px grid (old was 532 px), a better shader recommendation, and a significantly improved border shadow. Much crisper image than the previous version. There are also no grid, no shadow, and no grid + no shadow options for all borders.<br><br>Comparison of new vs. old:<br>![DMG_old_new_comparison](https://github.com/user-attachments/assets/24efce93-6c46-49d5-b2af-20278a3f5261)<br><br>Border options:<br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/ddad0d35-1a17-4564-aed2-97aa497bd7db)<br><br>
+2. **Perfect GBA Overlays** - updated 2024-09-14<br>Grids are the same as before; however, the border shadow is slightly improved and I've included a few more options that I've made for folks since posting the previous versions. There are also no grid, no shadow, and no grid + no shadow options for all borders.<br><br>Border options:<br>![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br>
+3. **Perfect GBC Overlays** - not yet updated; coming soon! Old version is in the Perfect_Overlays_for_muOS zip<br>![muOS_20240914_1039_0](https://github.com/user-attachments/assets/64c45fd1-d05d-48b3-bf73-2af3420ba261)
+<br><br>
 
 
 
