@@ -1,5 +1,5 @@
 # Perfect Overlays for RG35XX Plus/H/SP/2024 and others
-(with instructions for muOS)
+(step-by-step instructions for muOS are in the readmes)
 
 These are adaptations of [1playerinsertcoin's Perfect GB, GBC, and GBA Miyoo Mini overlays](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz).
 
