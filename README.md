@@ -1,13 +1,15 @@
-# Perfect Overlays for RG35XX Plus/H/SP/2024 and others
-(Step-by-step instructions for muOS are included in the readmes in the various zip files)
+# Perfect Overlays for RG35XX Plus/H/SP/2024 and other devices
+![github_banner](https://github.com/user-attachments/assets/66a5d067-c819-4dcc-bf1a-537761660d4e)
 
-These are adaptations of [1playerinsertcoin's Perfect GB, GBC, and GBA Miyoo Mini overlays](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz).
+*Step-by-step instructions for muOS are included in the readmes within the various zip files*<br><br>
+
+These are adaptations of 1playerinsertcoin's Perfect [GB](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/) Miyoo Mini overlays.
 
 The versions hosted here have had minor alignment fixes for the RG35XX Plus/H/SP/2024 series of devices and have been tested using muOS. They will likely work on other 640x480 systems and CFW, but ymmv with regard to instructions and alignment.
 
-For the original RG35XX, see my Garlic OS repository.
+For the original RG35XX, see my [Garlic OS repository](https://github.com/mugwomp93/GarlicOS_Customization).
 
-For the Miyoo Mini (Plus), see 1playerinsertcoin's original Reddit posts.
+For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz). It's worth checking out all of their other overlays, too.
 #
 ***Note: The current Perfect_Overlays_for_muOS file is outdated.***
 
