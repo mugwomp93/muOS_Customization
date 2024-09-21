@@ -13,7 +13,7 @@ For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https
 #
 ***Note: All files have now been updated!***
 
-The Perfect_Overlays_for_muOS zip file contains the contents of all three system-specific folders (DMG/GBP, GBC, and GBA).
+The Perfect_Overlays_for_muOS zip file is a compilation of all three system-specific zip files (DMG/GBP, GBC, and GBA).
 
 1. **Perfect DMG/GBP Overlays** - *updated 2024-09-14*<br>Updated versions have a corrected 533 px grid (old was 532 px), a better shader recommendation, and a significantly improved border shadow. Much crisper image than the previous version. There are also no grid, no shadow, and no grid + no shadow options for all borders.<br><br>Comparison of new vs. old:<br>![DMG_old_new_comparison](https://github.com/user-attachments/assets/d0f917e9-e8d2-4407-ae84-e31daf6b95db)<br><br>Border options:<br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/ddad0d35-1a17-4564-aed2-97aa497bd7db)<br><br><br>
 2. **Perfect GBA Overlays** - *updated 2024-09-21*<br>Grids are the same as before; however, the border shadow is slightly improved and I've included a few more options that I've made for folks since posting the previous versions. There are also no grid, no shadow, and no grid + no shadow options for all borders.<br><br>Border options:<br>![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br><br>
