@@ -1,3 +1,7 @@
+# Contents
+1. Perfect Overlays for RG35XX Plus/H/SP/2024 (and possibly other devices)
+2. Other Overlays
+
 # Perfect Overlays for RG35XX Plus/H/SP/2024 (and possibly other devices)
 ![github_banner2](https://github.com/user-attachments/assets/901f929a-1d00-4c1b-acb1-4f7da8d07a4b)
 
@@ -20,6 +24,14 @@ The Perfect_Overlays_for_muOS zip file is a compilation of all three system-spec
 1. **Perfect DMG/GBP Overlays** - *updated 2024-09-14*<br>Updated versions have a corrected 533 px grid (old was 532 px), a better shader recommendation, and a significantly improved border shadow. Much crisper image than the previous version. There are also no grid, no shadow, and no grid + no shadow options for all borders.<br><br>Comparison of new vs. old:<br>![DMG_overlay](https://github.com/user-attachments/assets/3b41e2a5-c3fa-4a41-b9a7-3f7010400ba4)<br><br>Border options:<br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/ddad0d35-1a17-4564-aed2-97aa497bd7db)<br><br><br>
 2. **Perfect GBA Overlays** - *updated 2024-09-26*<br>Added versions using the optimized (non-bright) Perfect GBA overlay. No new border options were added.<br><br>Border options:<br>![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br><br>
 3. **Perfect GBC Overlays** - *updated 2024-09-21*<br>Updated versions have a corrected 533 px grid (old was 532 px) and a better shader recommendation. A crisper image than the previous version. There are also no grid, no shadow, and no grid + no shadow options for all borders, plus a new border based on one of 1playerinsertcoin's original designs!<br><br>Comparison of new vs. old:<br>![GBC_overlay](https://github.com/user-attachments/assets/d1520c42-4cde-40e1-931c-254fe7fe4abc)<br><br>Border options:<br>![GBC_example_borders](https://github.com/user-attachments/assets/9790e994-5e64-4468-a1e4-d1d685c2ec98)<br><br>
+
+# Other Overlays
+
+1. **NeoGeo Pocket Color**
+<br>*An integer-scale NGPC overlay using a 3x3 pixel-sized section of the Perfect GBA overlay to create an lcd effect*![muOS_20241010_1136_0](https://github.com/user-attachments/assets/6d8d5635-6b0d-4617-ac60-ce275ba57e49)![muOS_20241010_1137_0](https://github.com/user-attachments/assets/8ad9ae1a-be79-473b-a5b1-cbd811db1b6c)<br><br>
+2. **Game Boy Integer-Scale Overlays**
+<br>*Coming soon!*
+
 
 
 
