@@ -28,7 +28,8 @@ The Perfect_Overlays_for_muOS zip file is a compilation of all three system-spec
 # Other Overlays
 
 1. **Neo Geo Pocket Color**
-<br>*An integer-scale NGPC overlay that uses a repeated 3x3 pixel section of 1playerinsertcoin's Perfect GBA overlay to create an lcd effect*![muOS_20241010_1136_0](https://github.com/user-attachments/assets/6d8d5635-6b0d-4617-ac60-ce275ba57e49)![muOS_20241010_1137_0](https://github.com/user-attachments/assets/8ad9ae1a-be79-473b-a5b1-cbd811db1b6c)<br><br>
+<br>*An integer-scale NGPC overlay that uses a repeated 3x3 pixel section of 1playerinsertcoin's Perfect GBA overlay to create an lcd effect*<br><br>![NGPC_examples](https://github.com/user-attachments/assets/de9f492f-5997-4b98-9a25-5d000bfd1c5c)
+<br><br>
 2. **Game Boy Integer-Scale Overlays**
 <br>*Coming soon!*
 
