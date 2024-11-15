@@ -7,9 +7,9 @@
 
 *Settings with step-by-step instructions for muOS are included in the readmes in the various zip files.*<br><br>
 
-These are adaptations of 1playerinsertcoin's Perfect [GB](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/) Miyoo Mini overlays.
+These are adaptations of 1playerinsertcoin's Perfect [DMG-EX](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/), [GBC](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/), and [GBA](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/) Miyoo Mini overlays.
 
-The versions hosted here have had minor alignment fixes for the RG35XX Plus/H/SP/2024 series of devices and have been tested on a RG35XX Plus using muOS. These overlays may work on other 640x480 devices and CFWs, though ymmv with regard to setup and alignment (since all three of the devices that I'm familiar with have minor scaling and positioning differences). Russ at Retro Game Corps has put together an excellent [guide to overlays and shaders on retro handheld devices](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/) that you may find useful if you're looking to get these working on another platform, or really just in general.
+The versions hosted here have had minor alignment fixes for the RG35XX Plus/H/SP/2024 series of devices and have been tested on an RG35XX Plus using muOS. These overlays may work on other 640x480 devices and CFWs, though ymmv with regard to setup and alignment (since all three of the devices that I'm familiar with have minor scaling and positioning differences). Russ at Retro Game Corps has put together an excellent [guide to overlays and shaders on retro handheld devices](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/) that you may find useful if you're looking to get these working on another platform, or really just in general.
 
 For the original RG35XX, see my [Garlic OS repository](https://github.com/mugwomp93/GarlicOS_Customization).
 
