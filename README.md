@@ -1,6 +1,6 @@
 # Contents
-1. [Perfect Overlays for RG35XX Plus/H/SP/2024 (and possibly other devices)](https://github.com/mugwomp93/muOS_Customization/edit/main/README.md#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)
-2. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/edit/main/README.md#other-overlays)
+1. [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/tree/main#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)
+2. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
 
 # [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip)<br>(and possibly other devices)
 ![github_banner2](https://github.com/user-attachments/assets/901f929a-1d00-4c1b-acb1-4f7da8d07a4b)
