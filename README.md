@@ -31,7 +31,8 @@ The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Custo
 <br>*An integer-scale NGPC overlay that uses a repeated 3x3 pixel section of 1playerinsertcoin's Perfect GBA overlay to create an lcd effect*<br><br>![NGPC_examples](https://github.com/user-attachments/assets/de9f492f-5997-4b98-9a25-5d000bfd1c5c)
 <br><br>
 2. **Game Boy Integer-Scale Overlays**
-<br>*Coming soon!*<br><br>![Comparison - DMG](https://github.com/user-attachments/assets/19d9dccf-c2cf-4d8a-bcca-e3ddc650bb74)<br><br>![Comparison - GBL](https://github.com/user-attachments/assets/c7cd126b-bf32-4fe1-9625-f4246b10cbdf)
+<br>*Coming soon!*<br><br>![Game Boy Metallics Preview](https://github.com/user-attachments/assets/0636283c-9584-4e67-ad93-423fddb33d1b)
+
 
 
 
