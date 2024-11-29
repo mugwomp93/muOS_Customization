@@ -1,6 +1,7 @@
 # Contents
 1. [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/tree/main#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)
-2. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
+2. [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
+3. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
 
 # [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip)<br>(and possibly other devices)
 ![github_banner2](https://github.com/user-attachments/assets/901f929a-1d00-4c1b-acb1-4f7da8d07a4b)
@@ -25,13 +26,31 @@ The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Custo
 2. **[Perfect GBA Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_for_muOS.zip)** - *updated 2024-09-26*<br>Added versions using the optimized (non-bright) Perfect GBA overlay. No new border options were added.<br><br>Border options:<br>![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br><br>
 3. **[Perfect GBC Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBC_for_muOS.zip)** - *updated 2024-09-21*<br>Updated versions have a corrected 533 px grid (old was 532 px) and a better shader recommendation. A crisper image than the previous version. There are also no grid, no shadow, and no grid + no shadow options for all borders, plus a new border based on one of 1playerinsertcoin's original designs!<br><br>Comparison of new vs. old:<br>![GBC_overlay](https://github.com/user-attachments/assets/d1520c42-4cde-40e1-931c-254fe7fe4abc)<br><br>Border options:<br>![GBC_example_borders](https://github.com/user-attachments/assets/9790e994-5e64-4468-a1e4-d1d685c2ec98)<br><br>
 
+
+# [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main/Game%20Boy%20Metallics)
+<br>![Game Boy Metallics Preview 2](https://github.com/user-attachments/assets/d34e6032-0dff-48ac-a8f7-a4076bc17442)
+
+<br>***Note that these overlays are identical to the ones found in my [Garlic OS repository](https://github.com/mugwomp93/GarlicOS_Customization)***
+
+<br>This is the culmination of a couple of projects I've wanted to work on for a while: revisiting my first attempts at integer-scale Game Boy overlays and seeing if I could improve the default Game Boy palettes in Retroarch (which I've never been happy with on my RG35XX or RG35XX Plus). The result is these overlays, which use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
+
+<br>The final versions were a compromise of color, grid line visibility, and contrast within the constraints of the existing internal palettes (e.g., changing the overlay opacity affects also affects the color and contrast). As a result, I ended up creating some optional custom palettes to help improve the contrast and in some cases (DMG, GBL) further refine the color schemes.<br> 
+<br><br>![Example - DMG](https://github.com/user-attachments/assets/86e042cd-f108-4878-98ad-e8ce099bd746)
+<br><br>![Example - GB Pocket](https://github.com/user-attachments/assets/90c705dc-b28c-401e-92d0-a13915df43cf)
+<br><br>![Example - GB Light](https://github.com/user-attachments/assets/28e9615f-5ae7-4b3a-959f-e20c4aa18a2d)
+<br><br>![Example - Virtual Boy](https://github.com/user-attachments/assets/c14436ab-d522-4867-b194-943aedbb579b)<br><br>
+
+The screenshots used in the pictures above were taken on an RG35XX Plus and edited to match (at least as closely as possible) what I see on my original RG35XX. The colors on my RG35XX Plus are similar if slightly more washed out. Given the difficulties in conveying accurate colors (my display isn't calibrated, your display likely isn't calibrated, your handheld likely doesn't display accurate colors anyway, etc.), it's difficult to say whether the colors you see are representative of what these overlays and palettes will look like on your device; however, each image is internally consistent with the colors on my RG35XX, so you can likely compare the raw palette images with what those palettes look like on your device to get an idea of how the overlays will look.
+
+If you just want the four overlays featured in the images, you can download my [preferred pack](https://github.com/mugwomp93/muOS_Customization/blob/main/Game%20Boy%20Metallics%20-%20Preferred%20Pack.zip). Otherwise, I've uploaded all combinations of the borders x overlay grids, with and without power lights, as well as borders-only and no-borders versions, [here](https://github.com/mugwomp93/muOS_Customization/tree/main/Game%20Boy%20Metallics). You'll need to download the custom palette(s) from the relevant subfolders if you decide to download individual overlays, or you can download a zip file with all of them [here](https://github.com/mugwomp93/muOS_Customization/blob/main/GBM_Custom_Palettes.zip) (make sure to read the readme for instructions).
+
+**Recommended settings and instructions for the custom palettes can be found in the readme files in both the preferred pack zip file and the top-level Game Boy Metallics folder.**<br><br>
+
+
 # Other Overlays
 
 1. **[Neo Geo Pocket Color](https://github.com/mugwomp93/muOS_Customization/blob/main/NGPC_mugwomp93.zip)**
 <br>*An integer-scale NGPC overlay that uses a repeated 3x3 pixel section of 1playerinsertcoin's Perfect GBA overlay to create an lcd effect*<br><br>![NGPC_examples](https://github.com/user-attachments/assets/de9f492f-5997-4b98-9a25-5d000bfd1c5c)
-<br><br>
-2. **Game Boy Integer-Scale Overlays**
-<br>*Coming soon!*<br><br>![Game Boy Metallics Preview](https://github.com/user-attachments/assets/0636283c-9584-4e67-ad93-423fddb33d1b)
 
 
 
