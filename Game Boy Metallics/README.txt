@@ -54,7 +54,7 @@ Retroarch Settings:
 
 			- For Garlic OS, copy it to the BIOS folder on SD2
 
-			- For muOS, you may need to copy it to the BIOS folder on SD1 (/mnt/mmc/MUOS/bios/) or SD2 (if you've migrated your data and settings to SD2) depending on your setup
+			- For muOS, you may need to copy it to the BIOS folder on SD1 (/mnt/mmc/MUOS/bios/) or SD2 (e.g., if you've migrated your settings to SD2) depending on your setup
 
 		- If you're using GBM_Custom_Palettes.zip, the included default.pal file is for the DMG color scheme
 	
