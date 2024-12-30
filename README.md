@@ -16,6 +16,9 @@ For the original RG35XX, see my [Garlic OS repository](https://github.com/mugwom
 
 For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz). It's worth checking out all of their other overlays, too.
 #
+***Updated 2024-12-30:***
+- Fixed a minor visual artifact present in some GBP overlays
+
 ***Updated 2024-09-26:***
 - Added versions using the optimized (non-bright) Perfect GBA overlay to the Perfect_Overlays_for_muOS and Perfect_GBA_for_muOS zips
 - Added a zip with just the new versions (Perfect_GBA_non-bright_only) for people who had previously downloaded the GBA overlays<br><br>
