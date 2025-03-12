@@ -16,6 +16,12 @@ For the original RG35XX, see my [Garlic OS repository](https://github.com/mugwom
 
 For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz). It's worth checking out all of their other overlays, too.
 #
+***Updated 2025-03-12:***
+- added additional recommended shaders and shader settings for DMG/GBP and GBA (pixel_aa, sharp-shimmerless) 
+- no changes to overlays, no need to change settings if what you're currently using is working for you
+- sharp-shimmerless isn't quite as good for DMG/GBP as pixellate/pixel_aa, but is less demanding if you have slowdown
+- clarified linear scaling for GBA instead of default (for whatever reason, default gives me linear scaling but others report nearest neighbour)
+
 ***Updated 2025-01-08:***
 - clarified that custom palettes for DMG and GBP may need to be copied to TF2 if muOS has been migrated to SD2 using the Task Toolkit
 
