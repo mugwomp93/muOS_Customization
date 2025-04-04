@@ -16,14 +16,18 @@ For the original RG35XX, see my [Garlic OS repository](https://github.com/mugwom
 
 For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz). It's worth checking out all of their other overlays, too.
 #
+***Updates 2025-04-04:***
+- Updated GBA scaling settings for muOS 2502.0 Pixie
+- The updated version of Retroarch in Pixie has additional Viewport Anchor Bias parameters in Video > Scaling that must be set instead of (Viewport Anchor Bias Y = 0.00) or in addition to (Viewport Anchor Bias Y = 1.00) the previously recommended scaling settings
+
 ***Updated 2025-03-12:***
-- added additional recommended shaders and shader settings for DMG/GBP and GBA (pixel_aa, sharp-shimmerless) 
-- no changes to overlays, no need to change settings if what you're currently using is working for you
-- sharp-shimmerless isn't quite as good for DMG/GBP as pixellate/pixel_aa, but is less demanding if you have slowdown
-- clarified linear scaling for GBA instead of default (for whatever reason, default gives me linear scaling but others report nearest neighbour)
+- Added additional recommended shaders and shader settings for DMG/GBP and GBA (pixel_aa, sharp-shimmerless) 
+- No changes to overlays, no need to change settings if what you're currently using is working for you
+- Sharp-shimmerless isn't quite as good for DMG/GBP as pixellate/pixel_aa, but is less demanding if you have slowdown
+- Clarified linear scaling for GBA instead of default (for whatever reason, default gives me linear scaling but others report nearest neighbour)
 
 ***Updated 2025-01-08:***
-- clarified that custom palettes for DMG and GBP may need to be copied to TF2 if muOS has been migrated to SD2 using the Task Toolkit
+- Clarified that custom palettes for DMG and GBP may need to be copied to TF2 if muOS has been migrated to SD2 using the Task Toolkit
 
 ***Updated 2024-12-30:***
 - Fixed a minor visual artifact present in some GBP overlays
