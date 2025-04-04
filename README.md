@@ -20,7 +20,7 @@ For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https
 - **Perfect Overlays for muOS are included in muOS 2502.0 Pixie by default**
 - However, the updated version of Retroarch in Pixie has additional Viewport Anchor Bias parameters in Video > Scaling that must be set for GBA instead of (Viewport Anchor Bias Y = 0.00) or in addition to (Viewport Anchor Bias Y = 1.00) the previously recommended scaling settings that aren't in the README that was merged
 - If you're trying to use the Perfect GBA overlay and the top is cutoff, try setting Viewport Anchor Bias to 1.00 (or 0.00 if that doesn't work, but 1.00 seems to be the solution)
-- If your Viewport Anchor Bias setting swon't save with your override, try deleting your existing content directory and/or core overrides and saving a new override
+- If your Viewport Anchor Bias settings won't save with your override, try deleting all existing GBA content directory and/or core overrides and saving a new override
 - Updated GBA scaling settings in the README included in files on this Github page for muOS 2502.0 Pixie
 
 ***Updated 2025-03-12:***
