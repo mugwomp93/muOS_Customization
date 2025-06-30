@@ -2,6 +2,7 @@
 1. [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/tree/main#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)
 2. [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
 3. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
+4. (***NEW!***) [720x720 Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#720x720-overlays)
 
 # [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip)<br>(and possibly other devices)
 ![github_banner2](https://github.com/user-attachments/assets/901f929a-1d00-4c1b-acb1-4f7da8d07a4b)
@@ -74,9 +75,14 @@ If you just want the four overlays featured in the images, you can download my [
 1. **[Neo Geo Pocket Color](https://github.com/mugwomp93/muOS_Customization/blob/main/NGPC_mugwomp93.zip)**
 <br>*An integer-scale NGPC overlay that uses a repeated 3x3 pixel section of 1playerinsertcoin's Perfect GBA overlay to create an lcd effect*<br><br>![NGPC_examples](https://github.com/user-attachments/assets/de9f492f-5997-4b98-9a25-5d000bfd1c5c)
 
+# [720x720 Overlays](https://github.com/mugwomp93/720x720_overlays/tree/main)
 
+I've created a [new repository](https://github.com/mugwomp93/720x720_overlays/tree/main) of 720x720 overlays that I'm working on. They're all works in progress, but I currently use them myself on my RG CubeXX. There are non-integer scale grid+borders versions for GB Pocket/GB Light, GB Color, and Game Gear, and a variety of integer and non-integer scale, grid-only overlays created by 1playerinsertcoin for GB Advance, GB Color, Game Gear, Neo Geo Pocket Color, and PICO-8.
 
-
-
+![GBP_composite](https://github.com/user-attachments/assets/44d416ca-9248-47dc-b111-635575f1e9b5)
+![GBL-Teal_composite](https://github.com/user-attachments/assets/a4e1f2c1-a701-420d-a198-ae7a601ba47e)
+![GBL-Blue_composite](https://github.com/user-attachments/assets/2f4c8113-3cbd-42e9-9003-236f8f3a35cf)
+![GBC_composite](https://github.com/user-attachments/assets/796b24a5-e0d8-4f3a-823e-16879ce216b6)
+![GG_composite](https://github.com/user-attachments/assets/50a01f21-fa25-41a1-a8e1-51a591716b94)
 
 
