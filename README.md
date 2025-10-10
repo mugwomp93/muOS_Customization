@@ -79,7 +79,8 @@ If you just want the four overlays featured in the images, you can download my [
 
 # [720x720 Overlays](https://github.com/mugwomp93/720x720_overlays/tree/main)
 
-I've created a [new repository](https://github.com/mugwomp93/720x720_overlays/tree/main) of 720x720 overlays that I'm working on. There's an integer-scale GB Advance overlay, non-integer scale grid+borders versions for GB Pocket/GB Light, GB Color, and Game Gear, and a variety of integer and non-integer scale, grid-only overlays created by 1playerinsertcoin for GB Advance, GB Color, Game Gear, Neo Geo Pocket Color, and PICO-8. (Note that Github scaling often creates banding in overlay grids depending on viewing size, zoom, etc. For best viewing, I recommend downloading the example images instead of viewing in Github if this is a concern)
+I've created a [new repository](https://github.com/mugwomp93/720x720_overlays/tree/main) of 720x720 overlays that I'm working on. There's an integer-scale GB Advance overlay, non-integer scale grid+borders versions for GB Pocket/GB Light, GB Color, and Game Gear, and a variety of integer and non-integer scale, grid-only overlays created by 1playerinsertcoin for GB Advance, GB Color, Game Gear, Neo Geo Pocket Color, and PICO-8.<br>
+<br>*Note that Github scaling often creates banding in pictures of overlay grids depending on viewing size, zoom, etc. For best viewing, I recommend downloading the example images instead of viewing in Github.*
 
 ![GBA_composite](https://github.com/user-attachments/assets/729affc3-2ce6-4dfa-88eb-b4b5f57e99f0)
 ![GBP_composite](https://github.com/user-attachments/assets/44d416ca-9248-47dc-b111-635575f1e9b5)
