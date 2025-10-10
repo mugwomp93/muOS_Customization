@@ -53,11 +53,13 @@ The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Custo
 <br>*Updated 2024-12-02 to remove artifacts that should be invisible on most devices.*
 <br>I recommend updating only if you are experiencing unexplained performance issues (please test with and without the overlays applied to ensure these aren't part of the game or due to other settings) or can see artifacts around the right and bottom borders.
 
-<br>***Note that these overlays are identical to the ones found in my [Garlic OS repository](https://github.com/mugwomp93/GarlicOS_Customization)***
+<br>***These overlays are identical to the ones found in my [Garlic OS repository](https://github.com/mugwomp93/GarlicOS_Customization)***
 
-<br>This is the culmination of a couple of projects I've wanted to work on for a while: revisiting my first attempts at integer-scale Game Boy overlays and seeing if I could improve the default Game Boy palettes in Retroarch (which I've never been happy with on my RG35XX). The result is these overlays, which use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
+<br>This is the culmination of a couple of projects I've wanted to work on for a while: revisiting my first attempts at integer-scale Game Boy overlays and seeing if I could improve the default Game Boy palettes in Retroarch for my RG35XX Plus (which I've never been happy with). The result is these overlays, which use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
 
-The final versions were a compromise of color, grid line visibility, and contrast within the constraints of the existing internal palettes (e.g., changing the overlay opacity affects also affects the color and contrast). As a result, I ended up creating some optional custom palettes to help improve the contrast and in some cases (DMG, GBL) further refine the color schemes.<br> 
+The final versions were a compromise of color, grid line visibility, and contrast within the constraints of the existing internal palettes (e.g., changing the overlay opacity affects also affects the color and contrast). As a result, I ended up creating some optional custom palettes to help improve the contrast and in some cases (DMG, GBL) further refine the color schemes.
+
+<br>***Note that these are likely horribly oversaturated on better screens***<br> 
 <br><br>![Example - DMG](https://github.com/user-attachments/assets/86e042cd-f108-4878-98ad-e8ce099bd746)
 <br><br>![Example - GB Pocket](https://github.com/user-attachments/assets/90c705dc-b28c-401e-92d0-a13915df43cf)
 <br><br>![Example - GB Light](https://github.com/user-attachments/assets/28e9615f-5ae7-4b3a-959f-e20c4aa18a2d)
@@ -77,8 +79,9 @@ If you just want the four overlays featured in the images, you can download my [
 
 # [720x720 Overlays](https://github.com/mugwomp93/720x720_overlays/tree/main)
 
-I've created a [new repository](https://github.com/mugwomp93/720x720_overlays/tree/main) of 720x720 overlays that I'm working on. They're all works in progress, but I currently use them myself on my RG CubeXX. There are non-integer scale grid+borders versions for GB Pocket/GB Light, GB Color, and Game Gear, and a variety of integer and non-integer scale, grid-only overlays created by 1playerinsertcoin for GB Advance, GB Color, Game Gear, Neo Geo Pocket Color, and PICO-8.
+I've created a [new repository](https://github.com/mugwomp93/720x720_overlays/tree/main) of 720x720 overlays that I'm working on. There's an integer-scale GB Advance overlay, non-integer scale grid+borders versions for GB Pocket/GB Light, GB Color, and Game Gear, and a variety of integer and non-integer scale, grid-only overlays created by 1playerinsertcoin for GB Advance, GB Color, Game Gear, Neo Geo Pocket Color, and PICO-8. (Note that Github scaling often creates banding in overlay grids depending on viewing size, zoom, etc. For best viewing, I recommend downloading the example images instead of viewing in Github if this is a concern)
 
+![GBA_composite](https://github.com/user-attachments/assets/729affc3-2ce6-4dfa-88eb-b4b5f57e99f0)
 ![GBP_composite](https://github.com/user-attachments/assets/44d416ca-9248-47dc-b111-635575f1e9b5)
 ![GBL-Teal_composite](https://github.com/user-attachments/assets/a4e1f2c1-a701-420d-a198-ae7a601ba47e)
 ![GBL-Blue_composite](https://github.com/user-attachments/assets/2f4c8113-3cbd-42e9-9003-236f8f3a35cf)
