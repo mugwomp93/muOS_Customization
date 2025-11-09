@@ -47,7 +47,7 @@ The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Custo
 2. **[Perfect GBA Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_for_muOS.zip)** - *updated 2024-09-26*<br>Added versions using the optimized (non-bright) Perfect GBA overlay. No new border options were added.<br><br>Border options:<br>![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br><br>
 3. **[Perfect GBC Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBC_for_muOS.zip)** - *updated 2024-09-21*<br>Updated versions have a corrected 533 px grid (old was 532 px) and a better shader recommendation. A crisper image than the previous version. There are also no grid, no shadow, and no grid + no shadow options for all borders, plus a new border based on one of 1playerinsertcoin's original designs!<br><br>Comparison of new vs. old:<br>![GBC_overlay](https://github.com/user-attachments/assets/d1520c42-4cde-40e1-931c-254fe7fe4abc)<br><br>Border options:<br>![GBC_example_borders](https://github.com/user-attachments/assets/9790e994-5e64-4468-a1e4-d1d685c2ec98)<br><br>
 
-# [Game Boy Bivert](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/GB_Bivert_640x480.zip)
+# [Game Boy Bivert](https://github.com/mugwomp93/muOS_Customization/blob/main/GB_Bivert_640x480.zip)
 ![GB_bivert_examples](https://github.com/user-attachments/assets/045085d5-5fd8-4d05-8a1c-65607f04ee6e)<br>
 ![GB_bivert_irl](https://github.com/user-attachments/assets/4fa8e452-540c-45f5-91c1-45bf5e51a24e)<br>
 
@@ -59,7 +59,7 @@ Since I'm too paranoid of messing up to [bivert](https://share.google/9UfGI6dnuo
 
   ### Installation:
 
-  - Download [GB_Bivert_640x480.zip](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/GB_Bivert_640x480.zip).
+  - Download [GB_Bivert_640x480.zip](https://github.com/mugwomp93/muOS_Customization/blob/main/GB_Bivert_640x480.zip).
   - Copy the contents of the overlays folder to your retroarch > overlays folder.
   - Copy the palettes folder (containing default.pal) to your BIOS folder (/mnt/mmc/MUOS/bios/ for a 1 SD installation; this may be different for Goose). Note that this will overwrite any custom palettes you are currently using, so make sure to rename or back them up if you don't want to lose them.
 
