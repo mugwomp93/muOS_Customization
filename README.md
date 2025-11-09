@@ -1,8 +1,9 @@
 # Contents
 1. [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/tree/main#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)
-2. [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
-3. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
-4. (***NEW!***) [720x720 Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#720x720-overlays)
+2. [Game Boy Bivert](https://github.com/mugwomp93/muOS_Customization/tree/main#game-boy-bivert)
+3. [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
+4. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
+5. (***NEW!***) [720x720 Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#720x720-overlays)
 
 # [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip)<br>(and possibly other devices)
 ![github_banner2](https://github.com/user-attachments/assets/901f929a-1d00-4c1b-acb1-4f7da8d07a4b)
@@ -46,6 +47,73 @@ The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Custo
 2. **[Perfect GBA Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_for_muOS.zip)** - *updated 2024-09-26*<br>Added versions using the optimized (non-bright) Perfect GBA overlay. No new border options were added.<br><br>Border options:<br>![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br><br>
 3. **[Perfect GBC Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBC_for_muOS.zip)** - *updated 2024-09-21*<br>Updated versions have a corrected 533 px grid (old was 532 px) and a better shader recommendation. A crisper image than the previous version. There are also no grid, no shadow, and no grid + no shadow options for all borders, plus a new border based on one of 1playerinsertcoin's original designs!<br><br>Comparison of new vs. old:<br>![GBC_overlay](https://github.com/user-attachments/assets/d1520c42-4cde-40e1-931c-254fe7fe4abc)<br><br>Border options:<br>![GBC_example_borders](https://github.com/user-attachments/assets/9790e994-5e64-4468-a1e4-d1d685c2ec98)<br><br>
 
+# [Game Boy Bivert](https://github.com/mugwomp93/720x720_overlays/tree/main/720x720%20overlays/GB)
+![GB_bivert_examples](https://github.com/user-attachments/assets/045085d5-5fd8-4d05-8a1c-65607f04ee6e)<br>
+![GB_bivert_irl](https://github.com/user-attachments/assets/4fa8e452-540c-45f5-91c1-45bf5e51a24e)<br>
+
+Since I'm too paranoid of messing up to [bivert](https://share.google/9UfGI6dnuoHDZfPC1) [my](https://share.google/gKa4aEo0yrGUetiSJ) [Game Boy Pocket](https://share.google/ORsP1ffJJTIlNehBt), I thought I would make an overlay instead. This overlay works in combination with a custom palette and has an orange-purple gradient effect to help simulate more realistic lighting. The zip file includes versions both with and without the power light.<br>
+
+## Configuration
+<details>
+  <summary>Click for installation and settings</summary>
+
+  ### Installation:
+
+  - Download [GB_Bivert_640x480.zip](https://github.com/mugwomp93/GarlicOS_Customization/blob/main/GB_Bivert_640x480.zip).
+  - Copy the contents of the overlays folder to your retroarch > overlays folder.
+  - Copy the palettes folder (containing default.pal) to your BIOS folder (/mnt/mmc/MUOS/bios/ for a 1 SD installation; this may be different for Goose). Note that this will overwrite any custom palettes you are currently using, so make sure to rename or back them up if you don't want to lose them.
+
+  ### Settings:
+
+  #### 1. Core Options
+
+    Quick Menu > Core Options:
+
+        GB Colorization > Custom
+
+        Manage Core Options > Save Content Directory Options
+  
+  #### 2. Apply the Overlay:
+  
+    Quick Menu > On-Screen Overlay
+
+         Display Overlay > ON
+
+         Overlay Preset...
+           > Navigate to retroarch > overlays > mugwomp93 and select GB_bivert_640x480 or GB_bivert_640x480_nolight
+                          
+         Overlay Opacity > 1.00
+
+   #### 3. Scaling Settings:
+    
+    Main Menu > Settings > Video > Scaling
+    
+         Main Menu > Settings > Video > Scaling
+    
+        Integer Scale > ON
+    
+        Integer Scale Axis > Y
+    
+        Integer Scale Scaling > Underscale
+    
+        Aspect Ratio > Core Provided
+    
+        Viewport Anchor Bias X > 0.50
+    
+        Viewport Anchor Bias Y > 0.50
+    
+        Bilinear Filtering > OFF
+    
+        Crop Overscan > OFF
+
+  #### 4. Save an Override
+
+    Quick Menu > Overrides > Save Content Directory Overrides
+    
+</details>
+
+### Notes:
+- The colors aren't intended to be 100% true to real life. Consider them "inspired by" instead of accurate representations.<br><br>
 
 # [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main/Game%20Boy%20Metallics)
 <br>![Game Boy Metallics Preview 2](https://github.com/user-attachments/assets/d34e6032-0dff-48ac-a8f7-a4076bc17442)
