@@ -1,6 +1,6 @@
 # Contents
 1. [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/tree/main#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)
-2. [Game Boy Bivert](https://github.com/mugwomp93/muOS_Customization/tree/main#game-boy-bivert)
+2. (***NEW!***) [Game Boy Bivert](https://github.com/mugwomp93/muOS_Customization/tree/main#game-boy-bivert)
 3. [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
 4. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
 5. (***NEW!***) [720x720 Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#720x720-overlays)
@@ -18,34 +18,21 @@ For the original RG35XX, see my [Garlic OS repository](https://github.com/mugwom
 
 For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz). It's worth checking out all of their other overlays, too.
 #
+***Updates 2025-11-09:***
+- Added Game Boy Bivert overlays
+
 ***Updates 2025-04-04:***
-- **Perfect Overlays for muOS are included in muOS 2502.0 Pixie by default**
-- However, the updated version of Retroarch in Pixie has additional Viewport Anchor Bias parameters in Video > Scaling that must be set for GBA instead of (Viewport Anchor Bias Y = 0.00) or in addition to (Viewport Anchor Bias Y = 1.00) the previously recommended scaling settings that aren't in the README that was merged
+- **Perfect Overlays are now included in muOS by default**
+- However, the updated version of Retroarch in Pixie and Goose has additional Viewport Anchor Bias parameters in Video > Scaling. These settings are not included in the README that was merged, but must be set to properly align the GBA viewport
 - If you're trying to use the Perfect GBA overlay and the top is cutoff, try setting Viewport Anchor Bias to 1.00 (or 0.00 if that doesn't work, but 1.00 seems to be the solution)
 - If your Viewport Anchor Bias settings won't save with your override, try deleting all existing GBA content directory and/or core overrides and saving a new override
-- Updated GBA scaling settings in the README included in files on this Github page for muOS 2502.0 Pixie
-
-***Updated 2025-03-12:***
-- Added additional recommended shaders and shader settings for DMG/GBP and GBA (pixel_aa, sharp-shimmerless) 
-- No changes to overlays, no need to change settings if what you're currently using is working for you
-- Sharp-shimmerless isn't quite as good for DMG/GBP as pixellate/pixel_aa, but is less demanding if you have slowdown
-- Clarified linear scaling for GBA instead of default (for whatever reason, default gives me linear scaling but others report nearest neighbour)
-
-***Updated 2025-01-08:***
-- Clarified that custom palettes for DMG and GBP may need to be copied to TF2 if muOS has been migrated to SD2 using the Task Toolkit
-
-***Updated 2024-12-30:***
-- Fixed a minor visual artifact present in some GBP overlays
-
-***Updated 2024-09-26:***
-- Added versions using the optimized (non-bright) Perfect GBA overlay to the Perfect_Overlays_for_muOS and Perfect_GBA_for_muOS zips
-- Added a zip with just the new versions (Perfect_GBA_non-bright_only) for people who had previously downloaded the GBA overlays<br><br>
+- Updated GBA scaling settings in the README included in files on this Github page for muOS 2502.0 Pixie<br><br>
 
 The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip) is a compilation of all three system-specific zip files (DMG/GBP, GBC, and GBA).
 
-1. **[Perfect DMG/GBP Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_DMG_GBP_for_muOS.zip)** - *updated 2024-09-14*<br>Updated versions have a corrected 533 px grid (old was 532 px), a better shader recommendation, and a significantly improved border shadow. Much crisper image than the previous version. There are also no grid, no shadow, and no grid + no shadow options for all borders.<br><br>Comparison of new vs. old:<br>![DMG_overlay](https://github.com/user-attachments/assets/3b41e2a5-c3fa-4a41-b9a7-3f7010400ba4)<br><br>Border options:<br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/ddad0d35-1a17-4564-aed2-97aa497bd7db)<br><br><br>
-2. **[Perfect GBA Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_for_muOS.zip)** - *updated 2024-09-26*<br>Added versions using the optimized (non-bright) Perfect GBA overlay. No new border options were added.<br><br>Border options:<br>![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br><br>
-3. **[Perfect GBC Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBC_for_muOS.zip)** - *updated 2024-09-21*<br>Updated versions have a corrected 533 px grid (old was 532 px) and a better shader recommendation. A crisper image than the previous version. There are also no grid, no shadow, and no grid + no shadow options for all borders, plus a new border based on one of 1playerinsertcoin's original designs!<br><br>Comparison of new vs. old:<br>![GBC_overlay](https://github.com/user-attachments/assets/d1520c42-4cde-40e1-931c-254fe7fe4abc)<br><br>Border options:<br>![GBC_example_borders](https://github.com/user-attachments/assets/9790e994-5e64-4468-a1e4-d1d685c2ec98)<br><br>
+1. **[Perfect DMG/GBP Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_DMG_GBP_for_muOS.zip)**<br>No grid, no shadow, and no grid + no shadow options are available for all borders.<br><br>Border options:<br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/ddad0d35-1a17-4564-aed2-97aa497bd7db)<br><br><br>
+2. **[Perfect GBA Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_for_muOS.zip)**<br><br>Border options:<br>![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br><br>
+3. **[Perfect GBC Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBC_for_muOS.zip)** <br>No grid, no shadow, and no grid + no shadow options are available for all borders.<br><br>Border options:<br>![GBC_example_borders](https://github.com/user-attachments/assets/9790e994-5e64-4468-a1e4-d1d685c2ec98)<br><br>
 
 # [Game Boy Bivert](https://github.com/mugwomp93/muOS_Customization/blob/main/GB_Bivert_640x480.zip)
 ![GB_bivert_examples](https://github.com/user-attachments/assets/045085d5-5fd8-4d05-8a1c-65607f04ee6e)<br>
@@ -123,7 +110,7 @@ Since I'm too paranoid of messing up to [bivert](https://share.google/9UfGI6dnuo
 
 <br>***These overlays are identical to the ones found in my [Garlic OS repository](https://github.com/mugwomp93/GarlicOS_Customization)***
 
-<br>This is the culmination of a couple of projects I've wanted to work on for a while: revisiting my first attempts at integer-scale Game Boy overlays and seeing if I could improve the default Game Boy palettes in Retroarch for my RG35XX Plus (which I've never been happy with). The result is these overlays, which use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
+<br>This is the culmination of a couple of projects I've wanted to work on for a while: revisiting my first attempts at integer-scale Game Boy overlays and seeing if I could improve the default Game Boy palettes in Retroarch for my RG35XX Plus (which I've never been happy with - the screen is dark and colors are washed out). The result is these overlays, which use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
 
 The final versions were a compromise of color, grid line visibility, and contrast within the constraints of the existing internal palettes (e.g., changing the overlay opacity affects also affects the color and contrast). As a result, I ended up creating some optional custom palettes to help improve the contrast and in some cases (DMG, GBL) further refine the color schemes.
 
