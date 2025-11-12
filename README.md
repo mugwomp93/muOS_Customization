@@ -5,7 +5,7 @@
 4. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
 5. (***NEW!***) [720x720 Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#720x720-overlays)
 
-# [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip)<br>(and possibly other devices)
+# [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip)<br>(and other 640x480 devices)
 ![github_banner2](https://github.com/user-attachments/assets/901f929a-1d00-4c1b-acb1-4f7da8d07a4b)
 
 *Settings with step-by-step instructions for muOS are included in the readmes in the various zip files.*<br><br>
@@ -18,9 +18,6 @@ For the original RG35XX, see my [Garlic OS repository](https://github.com/mugwom
 
 For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz). It's worth checking out all of their other overlays, too.
 #
-***Updates 2025-11-09:***
-- Added Game Boy Bivert overlays
-
 ***Updates 2025-04-04:***
 - **Perfect Overlays are now included in muOS by default**
 - However, the updated version of Retroarch in Pixie and Goose has additional Viewport Anchor Bias parameters in Video > Scaling. These settings are not included in the README that was merged, but must be set to properly align the GBA viewport
@@ -105,16 +102,13 @@ Since I'm too paranoid of messing up to [bivert](https://share.google/9UfGI6dnuo
 # [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main/Game%20Boy%20Metallics)
 <br>![Game Boy Metallics Preview 2](https://github.com/user-attachments/assets/d34e6032-0dff-48ac-a8f7-a4076bc17442)
 
-<br>*Updated 2024-12-02 to remove artifacts that should be invisible on most devices.*
-<br>I recommend updating only if you are experiencing unexplained performance issues (please test with and without the overlays applied to ensure these aren't part of the game or due to other settings) or can see artifacts around the right and bottom borders.
-
 <br>***These overlays are identical to the ones found in my [Garlic OS repository](https://github.com/mugwomp93/GarlicOS_Customization)***
 
-<br>This is the culmination of a couple of projects I've wanted to work on for a while: revisiting my first attempts at integer-scale Game Boy overlays and seeing if I could improve the default Game Boy palettes in Retroarch for my RG35XX Plus (which I've never been happy with - the screen is dark and colors are washed out). The result is these overlays, which use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
+<br>This is the culmination of a couple of projects I've wanted to work on for a while: revisiting my first attempts at integer-scale Game Boy overlays and seeing if I could improve the default Game Boy palettes in Retroarch for my RG35XX Plus (which I've never been happy with - the screen is dark and colors are washed out). These overlays are the result. They use colored grids to tweak the appearances of the internal Gambatte Game Boy palettes.
 
 The final versions were a compromise of color, grid line visibility, and contrast within the constraints of the existing internal palettes (e.g., changing the overlay opacity affects also affects the color and contrast). As a result, I ended up creating some optional custom palettes to help improve the contrast and in some cases (DMG, GBL) further refine the color schemes.
 
-<br>***Note that these are likely horribly oversaturated on better screens***<br> 
+<br>***Note that these are likely oversaturated on better screens***<br> 
 <br><br>![Example - DMG](https://github.com/user-attachments/assets/86e042cd-f108-4878-98ad-e8ce099bd746)
 <br><br>![Example - GB Pocket](https://github.com/user-attachments/assets/90c705dc-b28c-401e-92d0-a13915df43cf)
 <br><br>![Example - GB Light](https://github.com/user-attachments/assets/28e9615f-5ae7-4b3a-959f-e20c4aa18a2d)
