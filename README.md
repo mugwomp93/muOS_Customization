@@ -133,7 +133,6 @@ I've created a [new repository](https://github.com/mugwomp93/720x720_overlays/tr
 
 ![GBA_composite](https://github.com/user-attachments/assets/729affc3-2ce6-4dfa-88eb-b4b5f57e99f0)
 ![GBP_composite](https://github.com/user-attachments/assets/44d416ca-9248-47dc-b111-635575f1e9b5)
-![GBL-Teal_composite](https://github.com/user-attachments/assets/a4e1f2c1-a701-420d-a198-ae7a601ba47e)
 ![GBL-Blue_composite](https://github.com/user-attachments/assets/2f4c8113-3cbd-42e9-9003-236f8f3a35cf)
 ![GBC_composite](https://github.com/user-attachments/assets/796b24a5-e0d8-4f3a-823e-16879ce216b6)
 ![GG_composite](https://github.com/user-attachments/assets/50a01f21-fa25-41a1-a8e1-51a591716b94)
