@@ -1,9 +1,10 @@
 # Contents
-1. [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/tree/main#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)
-2. (***NEW!***) [Game Boy Bivert](https://github.com/mugwomp93/muOS_Customization/tree/main#game-boy-bivert)
+1. [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/tree/main#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)<br>
+&emsp;***&#8594; [New GBA border option](https://github.com/mugwomp93/muOS_Customization/tree/main/README.md#new-border-option) added 2026-03-04*** 
+2. [Game Boy Bivert](https://github.com/mugwomp93/muOS_Customization/tree/main#game-boy-bivert)
 3. [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
 4. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
-5. (***NEW!***) [720x720 Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#720x720-overlays)
+5. [720x720 Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#720x720-overlays)
 
 # [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip)<br>(and other 640x480 devices)
 ![github_banner2](https://github.com/user-attachments/assets/901f929a-1d00-4c1b-acb1-4f7da8d07a4b)
@@ -18,18 +19,43 @@ For the original RG35XX, see my [Garlic OS repository](https://github.com/mugwom
 
 For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz). It's worth checking out all of their other overlays, too.
 #
-***Updates 2025-04-04:***
+***Update 2026-03-04:***
+- I've added a new border option based on my [720x720 GBA overlay](https://github.com/mugwomp93/720x720_overlays/tree/main?tab=readme-ov-file#game-boy-advance)
+- See the [Perfect GBA section below](https://github.com/mugwomp93/muOS_Customization/tree/main/README.md#new-border-option) for details
+
+***Update 2025-04-04:***
 - **Perfect Overlays are now included in muOS by default**
 - However, the updated version of Retroarch in Pixie and Goose has additional Viewport Anchor Bias parameters in Video > Scaling. These settings are not included in the README that was merged, but must be set to properly align the GBA viewport
 - If you're trying to use the Perfect GBA overlay and the top is cutoff, try setting Viewport Anchor Bias to 1.00 (or 0.00 if that doesn't work, but 1.00 seems to be the solution)
 - If your Viewport Anchor Bias settings won't save with your override, try deleting all existing GBA content directory and/or core overrides and saving a new override
 - Updated GBA scaling settings in the README included in files on this Github page for muOS 2502.0 Pixie<br><br>
 
-The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip) is a compilation of all three system-specific zip files (DMG/GBP, GBC, and GBA).
+The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip) is a compilation of all three system-specific zip files (DMG/GBP, GBC, and GBA). Note that this file does not contain the new Perfect GBA border option added 2026-03-04. See the [Perfect GBA section below](https://github.com/mugwomp93/muOS_Customization/tree/main/README.md#new-border-option) for details and download links for the new overlay.
 
-1. **[Perfect DMG/GBP Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_DMG_GBP_for_muOS.zip)**<br>No grid, no shadow, and no grid + no shadow options are available for all borders.<br><br>Border options:<br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/ddad0d35-1a17-4564-aed2-97aa497bd7db)<br><br><br>
-2. **[Perfect GBA Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_for_muOS.zip)**<br><br>Border options:<br>![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br><br>
-3. **[Perfect GBC Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBC_for_muOS.zip)** <br>No grid, no shadow, and no grid + no shadow options are available for all borders.<br><br>Border options:<br>![GBC_example_borders](https://github.com/user-attachments/assets/9790e994-5e64-4468-a1e4-d1d685c2ec98)<br><br>
+## [Perfect DMG/GBP Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_DMG_GBP_for_muOS.zip)
+No grid, no shadow, and no grid + no shadow options are available for all borders.<br><br>Border options:<br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/ddad0d35-1a17-4564-aed2-97aa497bd7db)<br><br><br>
+## [Perfect GBA Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_for_muOS.zip)
+### Original border options:
+![GBA_example_borders](https://github.com/user-attachments/assets/17c2ddcf-d249-4d77-9d1a-12816d978408)<br><br>
+### New border option:
+<img width="1243" height="576" alt="Perfect_GBA_new_muos" src="https://github.com/user-attachments/assets/583ab70c-eb46-4636-8066-bf337bbd026b" /><br><br>This option has a better foil effect and a more subdued shadow than the original versions. I'll likely revise how these overlays are collected some time in the future, but for now I've provided the new overlays in separate zip files. There are four options, each of which includes Perfect GBA, Perfect GBA bright, and no grid overlays, all with and without shadows (6 overlays per zip file). See below for descriptions of the options you can use to select the best version for your device.<br><br>
+&emsp;[Perfect GBA New](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_New.zip)<br>
+&emsp;[Perfect GBA New Centered](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_New_Centered.zip)<br>
+&emsp;[Perfect GBA New for Dim Screens](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_New_Dim.zip)<br>
+&emsp;[Perfect GBA New for Dim Screens Centered](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_New_Dim_Centered.zip)<br>
+#### Centered vs. Non-centered
+The GBA logo on the overlays in the non-centered versions is offset toward the bottom of the screen to take advantage of black bezels. It makes for a more even look, as opposed to having the logo crammed toward the top of the border. However, the offset looks odd on devices without black bezels. For example:<br><br>
+On a device with a black bezel (ignore the banding; it's exacerbated by scaling and compression issues):<br>
+<img width="1074" height="721" alt="Perfect_GBA_mugwomp93_new_muos_offset_black_bezels" src="https://github.com/user-attachments/assets/75d03b09-864b-42df-8827-a40299d1ef58" /><br><br>
+Compared with a device with a gray bezel:<br>
+<img width="1074" height="721" alt="Perfect_GBA_mugwomp93_new_garlic_offset_gray_bezels" src="https://github.com/user-attachments/assets/81d7a3bd-8965-4f9f-b198-9577d6ecd29e" /><br>
+(Note that this is an original RG35XX running Garlic OS. The border width and rendered GBA resolution are slightly different, but the same principle applies.)<br>
+#### Regular vs. Dim Screen Versions
+The only difference between the regular version and the version for dim screens (e.g., RG35XX Plus/H/SP/2024) is that the brightness of the logo on the grid overlays has been reduced in the regular version. I expect that most people will want to play at maximum brightness when using the grids, and I find the logo ends up too bright to the point of being distracting. Whereas I haven't found this to be an issue on the RG35XX Plus.
+
+
+## [Perfect GBC Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBC_for_muOS.zip)
+No grid, no shadow, and no grid + no shadow options are available for all borders.<br><br>Border options:<br>![GBC_example_borders](https://github.com/user-attachments/assets/9790e994-5e64-4468-a1e4-d1d685c2ec98)<br><br>
 
 # [Game Boy Bivert](https://github.com/mugwomp93/muOS_Customization/blob/main/GB_Bivert_640x480.zip)
 ![GB_bivert_examples](https://github.com/user-attachments/assets/045085d5-5fd8-4d05-8a1c-65607f04ee6e)<br>
