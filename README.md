@@ -46,9 +46,11 @@ No grid, no shadow, and no grid + no shadow options are available for all border
 #### Centered vs. Non-centered
 The GBA logo on the overlays in the non-centered versions is offset toward the bottom of the screen to take advantage of black bezels. It makes for a more even look, as opposed to having the logo crammed toward the top of the border. However, the offset looks odd on devices without black bezels. For example:<br><br>
 On a device with a black bezel (ignore the banding; it's exacerbated by scaling and compression issues):<br>
-<img width="1074" height="721" alt="Perfect_GBA_mugwomp93_new_muos_offset_black_bezels" src="https://github.com/user-attachments/assets/75d03b09-864b-42df-8827-a40299d1ef58" /><br><br>
+<img width="1074" height="721" alt="Perfect_GBA_mugwomp93_new_muos_offset_black_bezels" src="https://github.com/user-attachments/assets/4821dc3a-5863-4b3c-8936-4427e41b3309" />
+<br><br>
 Compared with a device with a gray bezel:<br>
-<img width="1074" height="721" alt="Perfect_GBA_mugwomp93_new_garlic_offset_gray_bezels" src="https://github.com/user-attachments/assets/81d7a3bd-8965-4f9f-b198-9577d6ecd29e" /><br>
+<img width="1074" height="721" alt="Perfect_GBA_mugwomp93_new_garlic_offset_gray_bezels" src="https://github.com/user-attachments/assets/4dcb1a0e-e76a-4afc-b475-00c6d62e504c" />
+<br>
 (Note that this is an original RG35XX running Garlic OS. The border width and rendered GBA resolution are slightly different, but the same principle applies.)<br>
 #### Regular vs. Dim Screen Versions
 The only difference between the regular version and the version for dim screens (e.g., RG35XX Plus/H/SP/2024) is that the brightness of the logo on the grid overlays has been reduced in the regular version. I expect that most people will want to play at maximum brightness when using the grids, and I find the logo ends up too bright to the point of being distracting. Whereas I haven't found this to be an issue on the RG35XX Plus.
