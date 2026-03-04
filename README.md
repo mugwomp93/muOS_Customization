@@ -44,7 +44,7 @@ No grid, no shadow, and no grid + no shadow options are available for all border
 &emsp;[Perfect GBA New for Dim Screens](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_New_Dim.zip)<br>
 &emsp;[Perfect GBA New for Dim Screens Centered](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_GBA_New_Dim_Centered.zip)<br>
 #### Centered vs. Non-centered
-The GBA logo on the overlays in the non-centered versions is offset toward the bottom of the screen to take advantage of black bezels. It makes for a more even look, as opposed to having the logo crammed toward the top of the border. However, the offset looks odd on devices without black bezels. For example:<br><br>
+The GBA logo on the overlays in the non-centered versions is offset toward the bottom of the screen to take advantage of black bezels. It makes for a more even look, as opposed to having the logo crammed toward the top of the border; however, the offset looks odd on devices without black bezels. For example:<br><br>
 On a device with a black bezel (ignore the banding; it's exacerbated by scaling and compression issues):<br>
 <img width="1074" height="721" alt="Perfect_GBA_mugwomp93_new_muos_offset_black_bezels" src="https://github.com/user-attachments/assets/4821dc3a-5863-4b3c-8936-4427e41b3309" />
 <br><br>
