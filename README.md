@@ -1,6 +1,6 @@
 # Contents
 1. [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/tree/main#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)<br>
-&emsp;***&#8594; [New GBA border option](https://github.com/mugwomp93/muOS_Customization/tree/main/README.md#new-border-option) added 2026-03-04*** 
+&emsp;***&#8594; [New GBA border option](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#new-border-option) added 2026-03-04*** 
 2. [Game Boy Bivert](https://github.com/mugwomp93/muOS_Customization/tree/main#game-boy-bivert)
 3. [Game Boy Metallics Overlays](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#game-boy-metallics-overlays)
 4. [Other Overlays](https://github.com/mugwomp93/muOS_Customization/tree/main#other-overlays)
@@ -20,8 +20,8 @@ For the original RG35XX, see my [Garlic OS repository](https://github.com/mugwom
 For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https://www.reddit.com/u/1playerinsertcoin/s/yhapRMwOJz). It's worth checking out all of their other overlays, too.
 #
 ***Update 2026-03-04:***
-- I've added a new border option based on my [720x720 GBA overlay](https://github.com/mugwomp93/720x720_overlays/tree/main?tab=readme-ov-file#game-boy-advance)
-- See the [Perfect GBA section below](https://github.com/mugwomp93/muOS_Customization/tree/main/README.md#new-border-option) for details
+- I've added a new border option based on my [720x720 GBA overlay](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#new-border-option)
+- See the [Perfect GBA section below](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#new-border-option) for details
 
 ***Update 2025-04-04:***
 - **Perfect Overlays are now included in muOS by default**
@@ -30,7 +30,7 @@ For the Miyoo Mini (Plus), see [1playerinsertcoin's original Reddit posts](https
 - If your Viewport Anchor Bias settings won't save with your override, try deleting all existing GBA content directory and/or core overrides and saving a new override
 - Updated GBA scaling settings in the README included in files on this Github page for muOS 2502.0 Pixie<br><br>
 
-The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip) is a compilation of all three system-specific zip files (DMG/GBP, GBC, and GBA). Note that this file does not contain the new Perfect GBA border option added 2026-03-04. See the [Perfect GBA section below](https://github.com/mugwomp93/muOS_Customization/tree/main/README.md#new-border-option) for details and download links for the new overlay.
+The [Perfect_Overlays_for_muOS zip file](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_Overlays_for_muOS.zip) is a compilation of all three system-specific zip files (DMG/GBP, GBC, and GBA). Note that this file does not contain the new Perfect GBA border option added 2026-03-04. See the [Perfect GBA section below](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#new-border-option) for details and download links for the new overlay.
 
 ## [Perfect DMG/GBP Overlays](https://github.com/mugwomp93/muOS_Customization/blob/main/Perfect_DMG_GBP_for_muOS.zip)
 No grid, no shadow, and no grid + no shadow options are available for all borders.<br><br>Border options:<br>![DMG_GBP_example_borders](https://github.com/user-attachments/assets/ddad0d35-1a17-4564-aed2-97aa497bd7db)<br><br><br>
