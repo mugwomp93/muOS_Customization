@@ -1,3 +1,4 @@
+*Note: For **Knulli-specific** packages of my overlays (i.e., if you'd prefer to use the built-in Knulli configuration and don't want to mess around with Retroarch), see my new [Knulli repository](https://github.com/mugwomp93/Knulli_Customization).*
 # Contents
 1. [Perfect Overlays for RG35XX Plus/H/SP/2024](https://github.com/mugwomp93/muOS_Customization/tree/main#perfect-overlays-for-rg35xx-plushsp2024and-possibly-other-devices)<br>
 &emsp;***&#8594; [New GBA border option](https://github.com/mugwomp93/muOS_Customization?tab=readme-ov-file#new-border-option) added 2026-03-04*** 
